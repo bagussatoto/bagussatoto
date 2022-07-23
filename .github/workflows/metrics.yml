@@ -64,7 +64,7 @@ jobs:
           base: metadata
           repositories_batch: 3
           plugin_notable: yes
-          plugin_notable_repositories: no
+          plugin_notable_repositories: yes
           config_padding: 0, 8 + 1%
 
       #achievements
