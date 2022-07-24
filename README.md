@@ -109,6 +109,8 @@
 <p align="center">
 <!--<a href="https://twitter.com/bagussatoto1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sibagus_nokel" height="30" width="40" />
 </a> -->
+<a href="https://bio-bagus.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="bagussatoto" height="30" width="40" />
+</a>
 <a href="https://linkedin.com/in/bagussatoto1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bagussatoto1" height="30" width="40" />
 </a>
 <a href="https://fb.com/bagussatoto1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bagus_satoto1" height="30" width="40" />
