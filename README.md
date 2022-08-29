@@ -283,7 +283,7 @@
 <!-- https://platane.github.io/snk/ -->
 
  <p align="center">
-   <img src="https://user-images.githubusercontent.com/87259393/187084911-fb4aab9b-63f9-4861-a0f7-bcccc17a58e4.svg"?raw=true" alt="snake" width="1000"/>
+   <img src="https://user-images.githubusercontent.com/87259393/187248698-558c35df-7823-463b-9838-c752a84348f6.svg"?raw=true" alt="snake" width="1000"/>
 
 
 
@@ -295,6 +295,6 @@
 <!-- Profile
 <br>
 <h2 align="Left"></h2>
-<a href="https://github.com/bagussatoto/bagussatoto-old" target="_blank">💻 My Repositories Old </a>
+<a href="https://github.com/bagussatoto/bagussatoto" target="_blank">💻 My Repositories</a>
 End -->
 
