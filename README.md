@@ -1,6 +1,6 @@
 <!-- Logo -->
 <p align="center">
-  <img width="140" src="https://avatars.githubusercontent.com/u/87259393?v=4" />  
+  <img width="200" src="https://avatars.githubusercontent.com/u/87259393?v=4" />  
   <h2 align="center"> My Github Profile </h2>
   <p align="center">🏆 Achievements In Writing program Code 🏆</p>
 </p>
@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/github/stars/ryo-ma/github-profile-trophy"/> 
   </a>
     <a href="https://github.com/bagussatoto/bagussatoto/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/ryo-ma/github-profile-trophy"/> 
+    <img src="https://img.shields.io/github/license/bagussatoto/github-profile-trophy"/> 
   </a>
 </p>
 <!-- End -->
