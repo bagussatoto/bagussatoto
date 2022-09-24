@@ -1,6 +1,6 @@
 <!-- Logo -->
 <p align="center">
-  <img width="230" src="https://avatars.githubusercontent.com/u/87259393?v=4" />  
+  <img width="250" src="https://avatars.githubusercontent.com/u/87259393?v=4" />  
   <h2 align="center"> My Github Profile </h2>
   <p align="center">🏆 Achievements In Writing program Code 🏆</p>
 </p>
@@ -283,8 +283,7 @@
 <!-- https://platane.github.io/snk/ -->
 
  <p align="center">
-   <img src="https://user-images.githubusercontent.com/87259393/191884302-3acb2097-af68-42d7-91b5-dba511a672fc.svg"?raw=true" alt="snake" width="1000"/>
-
+   <img src="https://user-images.githubusercontent.com/87259393/192092666-91431cb8-70c6-44ba-ab63-636af3c21533.svg"?raw=true" alt="snake" width="1000"/>
 
 
 
