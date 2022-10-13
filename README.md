@@ -34,8 +34,8 @@
 <!-- Profile -->
 <h1 align="center" > Hii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm BAGUS BUDI SATOTO</h1>
 <h2 align="center"> 📌 I'm a student at Universitas Amikom Yogyakarta, Indonesia.</h2>
-<h2 align="center">  Major Bachelor of Informatics</h2>
-<h3 align="center"> 🧑🏽‍💻 Course Practicum Assistant </h3>
+<h2 align="center">  Major Bachelor of Informatics.</h2>
+<h3 align="center"> 🧑🏽‍💻 Practicum Assistant in Universitas Amikom Yogyakarta.</h3>
 <h3 align="center"> 🖥️ Web Developer and Software Enginnering 🖥️</h3><br>
 <!-- End -->
 
@@ -283,9 +283,7 @@
 <!-- https://platane.github.io/snk/ -->
 
  <p align="center">
-   <img src="https://user-images.githubusercontent.com/87259393/194732231-62a996aa-e33a-4728-afd6-883dc4cb1a31.svg"?raw=true" alt="snake" width="1000"/>
-
-
+   <img src="https://user-images.githubusercontent.com/87259393/195611627-15d4e3e1-8d30-4172-8fd6-8f3bf25c7458.svg"?raw=true" alt="snake" width="1000"/>
 
 
 
