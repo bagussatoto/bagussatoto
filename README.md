@@ -283,10 +283,11 @@
 <!-- https://platane.github.io/snk/ -->
 
  <p align="center">
-   <img src="https://user-images.githubusercontent.com/87259393/203676620-3aafc780-e100-4ac2-901a-d4d3e6e27598.svg?raw=true" alt="snake" width="1000"/>
+   <img src="https://user-images.githubusercontent.com/87259393/204104702-25a309ad-7bbc-4f9a-a1ce-f8f1efa941a8.svg?raw=true" alt="snake" width="1000"/>
 
 
-                                                                                                                                                      
+                
+                                                                                                                                 
 
 
 <!-- End -->
