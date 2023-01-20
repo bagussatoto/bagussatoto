@@ -270,7 +270,7 @@
     <img width="54.6%" src="https://github-readme-streak-stats.herokuapp.com/?user=bagussatoto&theme=highcontrast&fire=ffffff&ring=ffffff&border=ffffff&currStreakLabel=ffffff"/> 
     <img width="44%" src="https://github-profile-trophy.vercel.app/?username=bagussatoto&theme=onestar&column=4&margin-w=10&margin-h=10"/>
     
-<!-- img width="99.4%" src="https://activity-graph.herokuapp.com/graph?username=bagussatoto&theme=react-dark&bg_color=000000&color=FFFFFF"/ -->
+ <!-- img width="99.4%" src="https://activity-graph.herokuapp.com/graph?username=bagussatoto&theme=react-dark&bg_color=000000&color=FFFFFF" -->
     
   </a>
 </p>
@@ -285,13 +285,11 @@
 <!-- https://platane.github.io/snk/ -->
 
  <p align="center">
-   <img src="https://user-images.githubusercontent.com/87259393/211193032-c0da9e16-a02d-4b48-9754-bf98b8f98123.svg?raw=true" alt="snake" width="1000"/>
+   <img src="https://user-images.githubusercontent.com/87259393/213594239-8f3b1938-6e6a-4140-a569-f863635fc274.svg?raw=true" alt="snake" width="1000"/>
 
 
                
                                                                                                         
-
-
 
 
 
