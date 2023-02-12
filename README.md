@@ -75,14 +75,14 @@
     <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://img.shields.io/badge/Age-20 th-black" alt="umur"/>
     </a>
-   <!-- <a href="https://github.com/bagussatoto/" target="_blank">
+   <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://badges.pufler.dev/Years/bagussatoto?style=flat-square&color=000000" alt="Years Badge"/>
     </a> 
     <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://badges.pufler.dev/repos/bagussatoto?style=flat-square&color=000000" alt="Repos Badge"/>
     </a>
     <a href="https://github.com/bagussatoto/" target="_blank">
-        <img src="https://badges.pufler.dev/gists/bagussatoto?style=flat-square&color=000000" alt="Gists Badge"/> -->
+        <img src="https://badges.pufler.dev/gists/bagussatoto?style=flat-square&color=000000" alt="Gists Badge"/>
     </a>
     <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://img.shields.io/github/followers/bagussatoto?style=social" alt="GitHub followers"/>
@@ -108,8 +108,8 @@
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> Connect With Me  </h2><br> 
 
 <p align="center">
-<!--<a href="https://twitter.com/bagussatoto1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sibagus_nokel" height="30" width="40" />
-</a> -->
+<a href="https://twitter.com/bagussatoto1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sibagus_nokel" height="30" width="40" />
+</a>
 <a href="https://bio-bagus.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="bagussatoto" height="30" width="40" />
 </a>
 <a href="https://linkedin.com/in/bagussatoto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bagussatoto1" height="30" width="40" />
@@ -270,7 +270,9 @@
     <img width="54.6%" src="https://github-readme-streak-stats.herokuapp.com/?user=bagussatoto&theme=highcontrast&fire=ffffff&ring=ffffff&border=ffffff&currStreakLabel=ffffff"/> 
     <img width="44%" src="https://github-profile-trophy.vercel.app/?username=bagussatoto&theme=onestar&column=4&margin-w=10&margin-h=10"/>
     
- <!-- img width="99.4%" src="https://activity-graph.herokuapp.com/graph?username=bagussatoto&theme=react-dark&bg_color=000000&color=FFFFFF" -->
+<!--  
+ <img width="99.4%" src="https://activity-graph.herokuapp.com/graph?username=bagussatoto&theme=react-dark&bg_color=000000&color=FFFFFF" /> -->
+
     
   </a>
 </p>
