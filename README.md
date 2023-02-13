@@ -80,10 +80,10 @@
     </a> 
     <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://badges.pufler.dev/repos/bagussatoto?style=flat-square&color=000000" alt="Repos Badge"/> -->
-    </a>
+    <!-- </a>
     <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://badges.pufler.dev/gists/bagussatoto?style=flat-square&color=000000" alt="Gists Badge"/>
-    </a>
+    </a> -->
     <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://img.shields.io/github/followers/bagussatoto?style=social" alt="GitHub followers"/>
     </a>
