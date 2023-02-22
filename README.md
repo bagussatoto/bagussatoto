@@ -246,13 +246,13 @@
 </p>
 <!-- End -->
 
-<!--
+
 <br>
 <p align="center" >
 <a herf="https://github.com/bagussatoto">
 <img src="https://wakatime.com/share/@bagussatoto/38c86099-3d18-4b4a-9745-8bcaeb922005.svg?raw=true" width="1000" height="400"/>
 </a>
-</p> -->
+</p> 
 
 
 
