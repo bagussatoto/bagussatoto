@@ -37,6 +37,7 @@
 <h2 align="center">  Major Bachelor of Informatics.</h2>
 <h3 align="center"> 🧑🏽‍💻 Practicum Assistant in Universitas Amikom Yogyakarta.</h3>
 <h3 align="center"> 🖥️ Web Developer and Software Enginnering 🖥️</h3><br>
+<h3 align="center"> 🔑 Computer Networks and Security 🔏</h3><br>
 <!-- End -->
 
 <!-- Garis Lurus -->
@@ -269,6 +270,7 @@
     <img width="38.4%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kalwabed&layout=compact&langs_count=10&theme=dark&bg_color=000000"/>
     <img width="54.6%" src="https://github-readme-streak-stats.herokuapp.com/?user=bagussatoto&theme=highcontrast&fire=ffffff&ring=ffffff&border=ffffff&currStreakLabel=ffffff"/> 
     <img width="44%" src="https://github-profile-trophy.vercel.app/?username=bagussatoto&theme=onestar&column=4&margin-w=10&margin-h=10"/>
+    
    
 
     
