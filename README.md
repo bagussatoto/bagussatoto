@@ -292,7 +292,7 @@
 <!-- https://gprm.itsvg.in/ -->
 
  <p align="center">
-    <img src=https://user-images.githubusercontent.com/87259393/224502162-02611d28-9c07-46e9-b625-109a40b11c3a.svg?raw=true" alt="snake" width="1000"/>
+    <img src="https://user-images.githubusercontent.com/87259393/224502162-02611d28-9c07-46e9-b625-109a40b11c3a.svg?raw=true" alt="snake" width="1000"/>
  
 
 
