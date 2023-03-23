@@ -289,10 +289,9 @@
 <!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
 
 <!-- https://platane.github.io/snk/ -->
-<!-- https://gprm.itsvg.in/ -->
 
  <p align="center">
-    <img src="https://user-images.githubusercontent.com/87259393/226145700-71649160-017b-4ada-aa11-6d3bf5b67545.svg?raw=true" alt="snake" width="1000"/>
+    <img src="https://user-images.githubusercontent.com/87259393/227127463-0bce7470-0f34-48f4-8d1b-a3ed0b5a57a7.svg?raw=true" alt="snake" width="1000"/>
  
 
       
@@ -300,7 +299,7 @@
 
 
   
- 
+
 
   
   
@@ -308,6 +307,7 @@
 
 <!-- [github-user-contribution](https://user-images.githubusercontent.com/87259393/219905511-ea2d7a1c-7b07-48d0-b9fd-0d2be7fad602.svg) -->
 
+<!-- https://gprm.itsvg.in/ -->
 
 <!-- End -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
