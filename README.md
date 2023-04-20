@@ -291,7 +291,8 @@
 <!-- https://platane.github.io/snk/ -->
 
  <p align="center">
-    <img src="https://user-images.githubusercontent.com/87259393/232650265-b286271e-66f7-4f31-9c24-032983d6a67c.svg?raw=true" alt="snake" width="1000"/>
+    <img src="https://user-images.githubusercontent.com/87259393/233428688-a724ae4e-e84e-4d7c-93b3-82ebbd1fa9e7.svg?raw=true" alt="snake" width="1000"/>
+
 
 
 
@@ -317,3 +318,17 @@
 <a href="https://github.com/bagussatoto/bagussatoto" target="_blank">💻 My Repositories</a>
 End -->
 
+<!--
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/assets/BinsarDark.svg"></source>
+    <source media="(prefers-color-scheme: light)" srcset="/assets/BinsarLight.svg"></source>
+    <img alt="Binsar Dwi Jasuma" src="/assets/BinsarDark.svg" width="100%" />
+
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/binsarjr/binsarjr/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/binsarjr/binsarjr/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/binsarjr/binsarjr/output/github-contribution-grid-snake.svg" />
+</picture>
+-->
