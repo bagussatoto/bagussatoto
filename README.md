@@ -291,7 +291,8 @@
 <!-- https://platane.github.io/snk/ -->
 
  <p align="center">
-    <img src="https://user-images.githubusercontent.com/87259393/234360576-5268c06c-8e76-4e47-b99d-08830aad94d5.svg?raw=true" alt="snake" width="1000"/>
+    <img src="https://user-images.githubusercontent.com/87259393/234743416-be2e16ba-4d30-410b-9d77-6303b49aa67c.svg?raw=true" alt="snake" width="1000"/>
+
 
 
 
