@@ -74,7 +74,7 @@
         <img src="https://komarev.com/ghpvc/?username=bagussatoto&label=Profile%20views&color=000000&style=flat-square" alt="view profile"/>
     </a>
     <a href="https://github.com/bagussatoto/" target="_blank">
-        <img src="https://img.shields.io/badge/Age-20 th-black" alt="umur"/>
+        <img src="https://img.shields.io/badge/Age-21 th-black" alt="umur"/>
     </a>
    <!-- <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://badges.pufler.dev/Years/bagussatoto?style=flat-square&color=000000" alt="Years Badge"/>
@@ -291,7 +291,8 @@
 <!-- https://platane.github.io/snk/ -->
 
  <p align="center">
-    <img src="https://user-images.githubusercontent.com/87259393/234743416-be2e16ba-4d30-410b-9d77-6303b49aa67c.svg?raw=true" alt="snake" width="1000"/>
+    <img src="https://user-images.githubusercontent.com/87259393/235198844-8a13f1a7-7e7b-4a5e-aa75-1a55f8342d72.svg?raw=true" alt="snake" width="1000"/>
+
 
 
 
