@@ -138,9 +138,8 @@
 
 <!-- Languages and Tools -->
 <h2 align="center">
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px"> Languages and Tools  </h2><br>
-
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px"> Languages and Tools  </h2>
+<br>
 <p align="center"> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
 </a> 
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
@@ -216,12 +215,13 @@
         <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
         <img src="https://worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vsc1" width="40" height="40"/>
     </a> 
-   
+<!-- End -->  
 
 </p>
+
+<!-- Garis -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 <br>
-
 <!-- End -->
 
 
@@ -233,11 +233,12 @@
 <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen>
 </a>
 </p>
+<!-- End -->
 
 <br>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 
-<!-- Scanner -->
+<!-- Wakatime -->
 <h2 align="center"> 🤖 Waka Time  </h2>
 <br>
 <p align="center" >
@@ -257,9 +258,9 @@
 
 
 
-<!-- End -->
-
+<!-- Garis -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+<!-- End -->
 
 <!--pencapaian -->
 <h2 align="center"> 📈 Github Statistic  </h2>
