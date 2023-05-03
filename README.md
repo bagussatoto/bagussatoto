@@ -281,7 +281,7 @@
 <!-- <h2 align="center"> 📈 Github Statistics  </h2> -->
 
 <h2 align="center">
-<img src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif" width="50px"> Github Statistics  </h2>
+<img src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif" width="30px"> Github Statistics  </h2>
 
 <br>
 <p align="center">
