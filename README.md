@@ -285,7 +285,7 @@
 <!-- End -->    
 
 <!-- Contribusi -->
-<h2 align="center">  Contributions  </h2>
+<h2 align="center">  🙍🏽‍♂️ Contributions  </h2>
 <br>
 <p align="center">
 <p align="center">
