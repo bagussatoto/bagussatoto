@@ -275,12 +275,12 @@
     <img width="44%" src="https://github-profile-trophy.vercel.app/?username=bagussatoto&theme=onestar&column=4&margin-w=10&margin-h=10"/>
   </a>
 </p>
-    
-   
 
-    
-<!--  
- <img width="99.4%" src="https://activity-graph.herokuapp.com/graph?username=bagussatoto&theme=react-dark&bg_color=000000&color=FFFFFF" /> -->
+
+<!-- <img width="99.4%" src="https://activity-graph.herokuapp.com/graph?username=bagussatoto&theme=react-dark&bg_color=000000&color=FFFFFF" />  -->
+
+
+
 
 <!-- Garis -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
