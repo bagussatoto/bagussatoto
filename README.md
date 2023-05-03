@@ -308,7 +308,7 @@
 <!-- https://platane.github.io/snk/ -->
 
  <p align="center">
-    <img src="?raw=true" alt="snake" width="1000"/>
+    <img src="https://github.com/bagusbudisato/bagussatoto/blob/main/%F0%9F%90%8D%20snake/3-2-2.svg?raw=true" alt="snake" width="1000"/>
 
 
 
