@@ -228,7 +228,14 @@
 
 
 <!-- Scanner -->
-<h2 align="center"> 🪪 Github Scanner  </h2>
+<h2 align="center">
+<img src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif" width="50px"> Github Scanner </h2>
+
+
+
+<!-- <h2 align="center"> 🪪 Github Scanner  </h2> -->
+
+
 <br>
 <p align="center" >
 <a herf="https://github.com/bagussatoto" target="_blank" rel="noreferrer"><img src="https://github.com/bagussatoto/bagussatoto/blob/main/%E2%9C%85%20QR/QrGit-Bagus.svg?raw=true" width="" height="200" alt="WebsiteQR"> 
@@ -241,7 +248,13 @@
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 
 <!-- Wakatime -->
-<h2 align="center"> 🤖 Waka Time  </h2>
+
+<!-- <h2 align="center"> 🤖 Waka Time  </h2> -->
+
+<h2 align="center">
+<img src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" width="50px"> Waka Time  </h2>
+
+<br>
 <br>
 <p align="center" >
 <a herf="https://github.com/bagussatoto">
@@ -265,7 +278,11 @@
 <!-- End -->
 
 <!--pencapaian -->
-<h2 align="center"> 📈 Github Statistic  </h2>
+<!-- <h2 align="center"> 📈 Github Statistics  </h2> -->
+
+<h2 align="center">
+<img src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif" width="50px"> Github Statistics  </h2>
+
 <br>
 <p align="center">
   <a href="https://github.com/bagussatoto">
@@ -304,7 +321,14 @@
 <!-- End -->
 
 <!-- Snake -->
-<h2 align="center">🐍 Watch My Contribution Graph Get Eaten By the snake 🐍</h2><br>
+ <h2 align="center"><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
+ Watch My Contribution Graph Get Eaten By the snake <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></h2><br> 
+
+
+
+
+
+<!-- 🐍 Watch My Contribution Graph Get Eaten By the snake 🐍 -->
 
 <!-- Snake -->
 <!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
