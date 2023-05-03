@@ -127,14 +127,16 @@
 </a>
 </p>
 
+<!-- garis -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
-<br>
-
 <!-- End -->
+
 
 <!-- 🫱🏽‍🫲🏻 🫱🏽‍🫲🏻 -->
 
 <!-- 📊 -->
+
+
 
 <!-- Languages and Tools -->
 <h2 align="center">
@@ -215,13 +217,13 @@
         <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
         <img src="https://worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vsc1" width="40" height="40"/>
     </a> 
+</p>
 <!-- End -->  
 
-</p>
+
 
 <!-- Garis -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
-<br>
 <!-- End -->
 
 
@@ -288,7 +290,7 @@
 <!-- Contribusi -->
 <h2 align="center"><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> Contributions  </h2>
 
-<br>
+
 <p align="center">
 <p align="center">
   <a href="https://github.com/bagussatoto">
