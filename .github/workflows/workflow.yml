@@ -22,4 +22,4 @@ jobs:
         plugin_wakatime_user: "bagussatoto"
         plugin_wakatime_email: "bagusbudisatoto2001@gmail.com"
         plugin_wakatime_sections: time, languages, languages-graphs, editors, os
-        plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+        # plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
