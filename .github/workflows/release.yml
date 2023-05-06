@@ -19,11 +19,9 @@ jobs:
       uses: actions/setup-java@2c7a4878f5d120bd643426d54ae1209b29cc01a3 # tag=v3
       with:
         java-version: 11
-        distribution: 'zulu'
+        distribution: 'bagussatoto'
         server-id: ossrh
-        server-username: CI_DEPLOY_USERNAME
-        server-password: CI_DEPLOY_PASSWORD
-        gpg-passphrase: GPG_PASSPHRASE
+        server-username: bagussatoto
         gpg-private-key: ${{ secrets.GPG_PRIVATE_KEY }}
     - uses: actions/cache@0865c47f36e68161719c5b124609996bb5c40129 # tag=v3.0.5
       with:
@@ -34,6 +32,5 @@ jobs:
     - name: Build and Deploy
       run: ./mvnw -B -V -ntp -DperformRelease=true deploy
       env:
-        CI_DEPLOY_USERNAME: ${{ secrets.CI_DEPLOY_USERNAME }}
-        CI_DEPLOY_PASSWORD: ${{ secrets.CI_DEPLOY_PASSWORD }}
+        CI_DEPLOY_USERNAME: ${{ bagussatoto }}
         GPG_PASSPHRASE: ${{ secrets.GPG_PASSPHRASE }}
