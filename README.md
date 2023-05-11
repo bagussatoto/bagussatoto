@@ -336,7 +336,9 @@
 <!-- https://platane.github.io/snk/ -->
 
  <p align="center">
-    <img src="https://user-images.githubusercontent.com/87259393/236811229-3a996187-c88c-4a8a-8943-e67e6b467a95.svg?raw=true" alt="snake" width="1000"/>
+    <img src="https://github.com/bagussatoto/bagussatoto/assets/87259393/ad9f2c74-6ac6-4986-bb1f-27a927b9ff34.svg?raw=true" alt="snake" width="1000"/>
+
+
 
 
 
