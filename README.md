@@ -258,7 +258,7 @@
 <br>
 <p align="center" >
 <a herf="https://github.com/bagussatoto">
-<img src="https://github.com/bagussatoto/bagussatoto/blob/main/metrics.plugin.wakatime.svg?raw=true" > 
+<img src="https://github.com/bagussatoto/bagussatoto/blob/main/metrics.plugin.wakatime.svg?raw=true"> 
 </a>
 </p>
 <!-- End -->
