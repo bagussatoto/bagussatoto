@@ -1,4 +1,4 @@
-name: Wakatime
+name: WakaTime
 
 on: 
   workflow_dispatch:
@@ -6,7 +6,7 @@ on:
     branches:
     - main
   schedule:
-   - cron: "0 23 * * *"
+   - cron: "0 24 * * *"
 
 jobs:
   wakatime:
@@ -15,7 +15,10 @@ jobs:
     - name: WakaTime
       uses: lowlighter/metrics@latest
       with:
-        filename: metrics.plugin.wakatime.svg
+        filename: metrics.wakatime.svg
+
+        # filename: metrics.plugin.wakatime.svg
+
         token: NOT_NEEDED
         base: ""
         plugin_wakatime: yes
