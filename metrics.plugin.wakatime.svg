@@ -55,27 +55,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Markdown</span>
-                                <div class="bar" style="width: 96.824%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 96.824%; background-color: var(--color-calendar-graph-day-L5-bg)"></div>
                                 <span class="value">97%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 84.112%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 84.112%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">85%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Vue.js</span>
-                                <div class="bar" style="width: 66.968%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 66.968%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">67%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Blade</span>
-                                <div class="bar" style="width: 51.968% background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 51.968% background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">52%</span>
                             </div>
                              <div class="entry">
                                 <span class="name">JSON</span>
-                                <div class="bar" style="width: 47.968% background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 47.968% background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">48%</span>
                             </div>
                             <div class="entry">
