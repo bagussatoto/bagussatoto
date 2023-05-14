@@ -11,6 +11,9 @@
   <a href="https://github.com/bagussatoto/bagussatoto/issues">
     <img src="https://img.shields.io/github/issues/ryo-ma/github-profile-trophy"/> 
   </a>
+  <a href="https://www.codewars.com/users/bagussatoto/badges/micro">
+    <img src="https://www.codewars.com/users/bagussatoto/badges/micro"/> 
+  </a>
   <a href="https://github.com/bagussatoto/bagussatoto/network/members">
     <img src="https://img.shields.io/github/forks/ryo-ma/github-profile-trophy"/> 
   </a>  
