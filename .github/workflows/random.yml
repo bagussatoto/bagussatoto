@@ -1,0 +1,33 @@
+name: Random 
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '* * * * *' # This will run the action once a day at midnight
+
+jobs:
+  generate_random:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+      
+      - name: Install dependencies
+        run: |
+          npm install axios
+
+      - name: Generate random 
+        run: random.js
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.email "bagusbudisatoto2001@gmail.com"
+          git config --global user.name "bagussatoto"
+          git add -A
+          git commit -m "Update random"
+          git push
