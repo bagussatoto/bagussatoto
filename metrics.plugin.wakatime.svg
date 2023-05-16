@@ -55,7 +55,7 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Markdown</span>
-                                <div class="bar" style="width: 96.824%; background-color: var(--color-calendar-graph-day-L9-bg)"></div>
+                                <div class="bar" style="width: 96.824%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">97%</span>
                             </div>
                             <div class="entry">
@@ -65,8 +65,8 @@
                             </div>
                             <div class="entry">
                                 <span class="name">Vue.js</span>
-                                <div class="bar" style="width: 66.96%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">97%</span>
+                                <div class="bar" style="width: 66.96%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">65%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">TOML</span>
