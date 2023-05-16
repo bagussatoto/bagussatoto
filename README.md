@@ -338,8 +338,17 @@
 
 <!-- https://platane.github.io/snk/ -->
 
+ <!-- <p align="center">
+    <img src="https://github.com/bagussatoto/bagussatoto/blob/main/img/14523.svg?raw=true" alt="snake" width="1000"/> -->
+
  <p align="center">
-    <img src="https://github.com/bagussatoto/bagussatoto/blob/main/img/14523.svg?raw=true" alt="snake" width="1000"/>
+    <img src="./snake/16523.svg" alt="snake" width="1000"/>
+
+
+
+
+
+
 
 
 
