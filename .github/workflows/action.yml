@@ -4,7 +4,7 @@ author: "bagussatoto"
 
 runs:
   using: node16
-  main: dist/index.js
+  main: node/index.js
 
 inputs:
   github_user_name:
