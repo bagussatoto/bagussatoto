@@ -342,7 +342,7 @@
     <img src="https://github.com/bagussatoto/bagussatoto/blob/main/img/14523.svg?raw=true" alt="snake" width="1000"/> -->
 
  <p align="center">
-    <img src="./snake/20523.svg?raw=true" alt="snake" width="1000"/>
+    <img src="./snake/21523.svg?raw=true" alt="snake" width="1000"/>
 
 
 
