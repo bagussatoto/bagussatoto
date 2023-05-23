@@ -393,7 +393,7 @@ https://github.com/bagussatoto/bagussatoto/graphs/contributors
 <a href="https://github.com/bagussatoto/bagussatoto" target="_blank">💻 My Repositories</a>
 End -->
 
-<!--
+
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="/assets/BinsarDark.svg"></source>
     <source media="(prefers-color-scheme: light)" srcset="/assets/BinsarLight.svg"></source>
@@ -406,5 +406,4 @@ End -->
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/binsarjr/binsarjr/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/binsarjr/binsarjr/output/github-contribution-grid-snake.svg" />
 </picture>
--->
 
