@@ -232,11 +232,14 @@
 
 <!-- Scanner -->
 <h2 align="center">
-<img src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif" width="50px"> Github Scanner </h2>
+<img src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" width="50px"> Github Scanner </h2>
 
 
 
 <!-- <h2 align="center"> 🪪 Github Scanner  </h2> -->
+
+
+
 
 
 <br>
@@ -255,7 +258,7 @@
 <!-- <h2 align="center"> 🤖 Waka Time  </h2> -->
 
 <h2 align="center">
-<img src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" width="50px"> Waka Time  </h2>
+<img src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif" width="50px"> Waka Time  </h2>
 
 <br>
 <br>
@@ -342,15 +345,19 @@
  <!-- <p align="center">
     <img src="https://github.com/bagussatoto/bagussatoto/blob/main/img/14523.svg?raw=true" alt="snake" width="1000"/> -->
 
- <p align="center">
-    <img src="./snake/23523.svg?raw=true" alt="snake" width="1000"/>
+ <!-- <p align="center">
+    <img src="./snake/23523.svg?raw=true" alt="snake" width="1000"/> -->
 
 
 
 
 
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bagussatoto/bagussatoto/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bagussatoto/bagussatoto/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/bagussatoto/bagussatoto/output/github-contribution-grid-snake.svg" />
+</picture>
 
 
 
@@ -394,16 +401,16 @@ https://github.com/bagussatoto/bagussatoto/graphs/contributors
 End -->
 
 
-<picture>
+<!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="/assets/BinsarDark.svg"></source>
     <source media="(prefers-color-scheme: light)" srcset="/assets/BinsarLight.svg"></source>
     <img alt="Binsar Dwi Jasuma" src="/assets/BinsarDark.svg" width="100%" />
 
-</picture>
+</picture> -->
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/binsarjr/binsarjr/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/binsarjr/binsarjr/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/binsarjr/binsarjr/output/github-contribution-grid-snake.svg" />
-</picture>
+</picture> -->
 
