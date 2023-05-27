@@ -348,23 +348,6 @@
  <!-- <p align="center">
     <img src="./snake/23523.svg?raw=true" alt="snake" width="1000"/> -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bagussatoto/bagussatoto/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bagussatoto/bagussatoto/output/github-contribution-grid-snake.svg" />
@@ -382,30 +365,4 @@
 <!-- End -->
 
 
-
-
-<!-- Repo 
-https://github.com/bagussatoto/bagussatoto/graphs/contributors
-
--->
-
-<!-- Profile
-
-<h2 align="Left"></h2>
-<a href="https://github.com/bagussatoto/bagussatoto" target="_blank">💻 My Repositories</a>
-End -->
-
-
-<!-- <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/assets/BinsarDark.svg"></source>
-    <source media="(prefers-color-scheme: light)" srcset="/assets/BinsarLight.svg"></source>
-    <img alt="Binsar Dwi Jasuma" src="/assets/BinsarDark.svg" width="100%" />
-
-</picture> -->
-
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/binsarjr/binsarjr/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/binsarjr/binsarjr/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/binsarjr/binsarjr/output/github-contribution-grid-snake.svg" />
-</picture> -->
 
