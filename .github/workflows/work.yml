@@ -6,7 +6,7 @@ on:
     branches:
     - main
   schedule:
-   - cron: "0 24 * * *"
+   - cron: "0 25 * * *"
 
 jobs:
   wakatime:
@@ -16,11 +16,8 @@ jobs:
       uses: lowlighter/metrics@latest
       with:
         filename: metrics.plugin.wakatime.svg
-
-        # filename: metrics.plugin.wakatime.svg
-
         token: NOT_NEEDED
-        base: ""
+        base: ","
         plugin_wakatime: yes
         plugin_wakatime_user: bagussatoto
         plugin_wakatime_sections: time, languages, languages-graphs, editors, os
