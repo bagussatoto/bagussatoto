@@ -19,6 +19,6 @@ jobs:
         token: NOT_NEEDED
         base: ""
         plugin_wakatime: yes
-        plugin_wakatime_user: kalwabed
+        plugin_wakatime_user: binsarjr
         plugin_wakatime_sections: time, languages, languages-graphs, editors, os
         plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
