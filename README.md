@@ -232,11 +232,14 @@
 
 <!-- Scanner -->
 <h2 align="center">
-<img src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif" width="50px"> Github Scanner </h2>
+<img src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" width="50px"> Github Scanner </h2>
 
 
 
 <!-- <h2 align="center"> 🪪 Github Scanner  </h2> -->
+
+
+
 
 
 <br>
@@ -255,7 +258,7 @@
 <!-- <h2 align="center"> 🤖 Waka Time  </h2> -->
 
 <h2 align="center">
-<img src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" width="50px"> Waka Time  </h2>
+<img src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif" width="50px"> Waka Time  </h2>
 
 <br>
 <br>
@@ -290,10 +293,11 @@
 <p align="center">
   <a href="https://github.com/bagussatoto">
     <img width="60.2%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bagussatoto&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&bg_color=000000"/>
-    <img width="38.4%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kalwabed&layout=compact&langs_count=10&theme=dark&bg_color=000000"/>
+    <img width="38.4%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bagussatoto&layout=compact&langs_count=10&theme=dark&bg_color=000000"/>
     <img width="54.6%" src="https://github-readme-streak-stats.herokuapp.com/?user=bagussatoto&theme=highcontrast&fire=ffffff&ring=ffffff&border=ffffff&currStreakLabel=ffffff"/> 
     <img width="44%" src="https://github-profile-trophy.vercel.app/?username=bagussatoto&theme=onestar&column=4&margin-w=10&margin-h=10"/>
-  </a>
+    <!-- <img width="99.4%" src="https://github-readme-activity-graph.cyclic.app/graph?username=bagussatoto&theme=react-dark&bg_color=20232a&hide_border=true" />  -->
+  </a> 
 </p>
 
 
@@ -338,26 +342,17 @@
 
 <!-- https://platane.github.io/snk/ -->
 
- <p align="center">
-    <img src="https://github.com/bagussatoto/bagussatoto/blob/main/img/14523.svg?raw=true" alt="snake" width="1000"/>
+ <!-- <p align="center">
+    <img src="https://github.com/bagussatoto/bagussatoto/blob/main/img/14523.svg?raw=true" alt="snake" width="1000"/> -->
 
+ <!-- <p align="center">
+    <img src="./snake/23523.svg?raw=true" alt="snake" width="1000"/> -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bagussatoto/bagussatoto/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bagussatoto/bagussatoto/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/bagussatoto/bagussatoto/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <!-- [github-user-contribution](https://user-images.githubusercontent.com/87259393/219905511-ea2d7a1c-7b07-48d0-b9fd-0d2be7fad602.svg) -->
 
@@ -370,31 +365,4 @@
 <!-- End -->
 
 
-
-
-<!-- Repo 
-https://github.com/bagussatoto/bagussatoto/graphs/contributors
-
--->
-
-<!-- Profile
-
-<h2 align="Left"></h2>
-<a href="https://github.com/bagussatoto/bagussatoto" target="_blank">💻 My Repositories</a>
-End -->
-
-<!--
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/assets/BinsarDark.svg"></source>
-    <source media="(prefers-color-scheme: light)" srcset="/assets/BinsarLight.svg"></source>
-    <img alt="Binsar Dwi Jasuma" src="/assets/BinsarDark.svg" width="100%" />
-
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/binsarjr/binsarjr/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/binsarjr/binsarjr/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/binsarjr/binsarjr/output/github-contribution-grid-snake.svg" />
-</picture>
--->
 

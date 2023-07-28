@@ -1,0 +1,24 @@
+name: WakaWork
+
+on: 
+  workflow_dispatch:
+  push:
+    branches:
+    - main
+  schedule:
+   - cron: "0 25 * * *"
+
+jobs:
+  wakatime:
+    runs-on: ubuntu-latest
+    steps:
+    - name: WakaTime
+      uses: lowlighter/metrics@latest
+      with:
+        filename: metrics.plugin.wakatime.svg
+        token: NOT_NEEDED
+        base: ","
+        plugin_wakatime: yes
+        plugin_wakatime_user: bagussatoto
+        plugin_wakatime_sections: time, languages, languages-graphs, editors, os
+        plugin_wakatime_token: ${{ 62e13-363d9 }}
