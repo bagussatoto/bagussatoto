@@ -23,7 +23,7 @@ jobs:
         server-id: ossrh
         server-username: bagussatoto
         gpg-private-key: ${{ secrets.GPG_PRIVATE_KEY }}
-    - uses: actions/cache@0865c47f36e68161719c5b124609996bb5c40129 # tag=v3.0.5
+    - uses: actions/cache@88522ab9f39a2ea568f7027eddc7d8d8bc9d59c8 # v3.3.1
       with:
         path: ~/.m2/repository
         key: ${{ runner.os }}-maven-${{ hashFiles('**/pom.xml') }}
