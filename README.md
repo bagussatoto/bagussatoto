@@ -348,11 +348,18 @@
  <!-- <p align="center">
     <img src="./snake/23523.svg?raw=true" alt="snake" width="1000"/> -->
 
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bagussatoto/bagussatoto/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bagussatoto/bagussatoto/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/bagussatoto/bagussatoto/output/github-contribution-grid-snake.svg" />
 </picture>
+
+---
+[![](https://visitcount.itsvg.in/api?id=bagussatoto&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- [github-user-contribution](https://user-images.githubusercontent.com/87259393/219905511-ea2d7a1c-7b07-48d0-b9fd-0d2be7fad602.svg) -->
 
