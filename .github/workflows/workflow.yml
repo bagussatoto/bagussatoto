@@ -15,9 +15,9 @@ jobs:
     - name: WakaTime
       uses: lowlighter/metrics@latest
       with:
-        filename: metrics.plugin.wakatime.svg
+        filename: metrics.plugin.waketime.svg
         token: NOT_NEEDED
-        base: ""
+        base: "
         plugin_wakatime: yes
         plugin_wakatime_user: bagussatoto
         plugin_wakatime_sections: time, languages, languages-graphs, editors, os
