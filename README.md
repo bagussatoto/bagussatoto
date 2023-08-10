@@ -79,11 +79,11 @@
     <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://img.shields.io/badge/Age-21 th-black" alt="umur"/>
     </a>
-   <!-- <a href="https://github.com/bagussatoto/" target="_blank">
+   <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://badges.pufler.dev/Years/bagussatoto?style=flat-square&color=000000" alt="Years Badge"/>
     </a> 
     <a href="https://github.com/bagussatoto/" target="_blank">
-        <img src="https://badges.pufler.dev/repos/bagussatoto?style=flat-square&color=000000" alt="Repos Badge"/> -->
+        <img src="https://badges.pufler.dev/repos/bagussatoto?style=flat-square&color=000000" alt="Repos Badge"/> 
     <!-- </a>
     <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://badges.pufler.dev/gists/bagussatoto?style=flat-square&color=000000" alt="Gists Badge"/>
@@ -356,7 +356,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/bagussatoto/bagussatoto/output/github-contribution-grid-snake.svg" />
 </picture>
 
----
 [![](https://visitcount.itsvg.in/api?id=bagussatoto&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
