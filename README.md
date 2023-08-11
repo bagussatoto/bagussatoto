@@ -301,7 +301,7 @@
 </p>
 
 
- <img width="99.4%" src="https://activity-graph.herokuapp.com/graph?username=bagussatoto&theme=react-dark&bg_color=000000&color=FFFFFF" />  -
+<!--  <img width="99.4%" src="https://activity-graph.herokuapp.com/graph?username=bagussatoto&theme=react-dark&bg_color=000000&color=FFFFFF" />  -
 
 
 
@@ -348,6 +348,8 @@
  <!-- <p align="center">
     <img src="./snake/23523.svg?raw=true" alt="snake" width="1000"/> -->
 
+![github-user-contribution](https://github.com/bagussatoto/bagussatoto/assets/87259393/6cc97e75-6cb2-4903-8f25-d633d994e659)
+
 
 
 <picture>
@@ -357,6 +359,7 @@
 </picture>
 
 [![](https://visitcount.itsvg.in/api?id=bagussatoto&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
