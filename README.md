@@ -71,10 +71,14 @@
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 <!-- End -->
 
+
 <!-- view -->
 <p align="center">
     <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://komarev.com/ghpvc/?username=bagussatoto&label=Profile%20views&color=000000&style=flat-square" alt="view profile"/>
+    </a>
+    <a href="https://github.com/bagussatoto/" target="_blank">
+        <img src="https://visitcount.itsvg.in/api?id=bagussatoto&icon=0&color=0" alt="Profile view"/>
     </a>
     <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://img.shields.io/badge/Age-21 th-black" alt="umur"/>
@@ -323,13 +327,13 @@
 </p>
 
 
-<!-- Garis -->
+<!-- Garis 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 <!-- End -->
 
 <!-- Snake -->
- <h2 align="center"><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
- Watch My Contribution Graph Get Eaten By the snake <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></h2><br> 
+ <!-- <h2 align="center"><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
+ Watch My Contribution Graph Get Eaten By the snake <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></h2><br>  -->
 
 
 
@@ -348,17 +352,15 @@
  <!-- <p align="center">
     <img src="./snake/23523.svg?raw=true" alt="snake" width="1000"/> -->
 
-![github-user-contribution](https://github.com/bagussatoto/bagussatoto/assets/87259393/6cc97e75-6cb2-4903-8f25-d633d994e659)
 
 
-
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bagussatoto/bagussatoto/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bagussatoto/bagussatoto/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/bagussatoto/bagussatoto/output/github-contribution-grid-snake.svg" />
-</picture>
+</picture> -->
 
-[![](https://visitcount.itsvg.in/api?id=bagussatoto&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=bagussatoto&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
