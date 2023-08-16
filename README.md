@@ -9,19 +9,19 @@
 <!-- Issue -->
 <p align="center">
   <a href="https://github.com/bagussatoto/bagussatoto/issues">
-    <img src="https://img.shields.io/github/issues/ryo-ma/github-profile-trophy"/> 
+    <img src="https://img.shields.io/github/issues/ryo-ma/github-profile-trophy"/>
   </a>
   <a href="https://www.codewars.com/users/bagussatoto/badges/micro">
-    <img src="https://www.codewars.com/users/bagussatoto/badges/micro"/> 
+    <img src="https://www.codewars.com/users/bagussatoto/badges/micro"/>
   </a>
   <a href="https://github.com/bagussatoto/bagussatoto/network/members">
-    <img src="https://img.shields.io/github/forks/ryo-ma/github-profile-trophy"/> 
+    <img src="https://img.shields.io/github/forks/ryo-ma/github-profile-trophy"/>
   </a>  
   <a href="https://github.com/bagussatoto/bagussatoto/stargazers">
-    <img src="https://img.shields.io/github/stars/ryo-ma/github-profile-trophy"/> 
+    <img src="https://img.shields.io/github/stars/ryo-ma/github-profile-trophy"/>
   </a>
     <a href="https://github.com/bagussatoto/bagussatoto/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/bagussatoto/github-profile-trophy"/> 
+    <img src="https://img.shields.io/github/license/bagussatoto/github-profile-trophy"/>
   </a>
 </p>
 <!-- End -->
@@ -33,7 +33,6 @@
 </a><br>
 <!-- End -->
 
-
 <!-- Profile -->
 <h1 align="center" > Hii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm BAGUS BUDI SATOTO</h1>
 <h2 align="center"> 📌 I'm a student at Universitas Amikom Yogyakarta, Indonesia.</h2>
@@ -44,7 +43,7 @@
 <!-- End -->
 
 <!-- Garis Lurus -->
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 <!-- End -->
 
 <!-- Sponsore -->
@@ -53,16 +52,16 @@
 </p>
 <p align="center">
   <a href="https://saweria.co/bagussatoto1">
-    <img src="https://img.shields.io/static/v1?label=Saweria&message=%E2%9D%A4&logo=saweria&color=ff69b4"/> 
-  </a> 
+    <img src="https://img.shields.io/static/v1?label=Saweria&message=%E2%9D%A4&logo=saweria&color=ff69b4"/>
+  </a>
   <a href="https://www.buymeacoffee.com/baagussatoto">
-    <img src="https://img.shields.io/static/v1?label=Buymeacoffee&message=%E2%9D%A4&logo=buymeacoffee&color=ff69b4"/> 
+    <img src="https://img.shields.io/static/v1?label=Buymeacoffee&message=%E2%9D%A4&logo=buymeacoffee&color=ff69b4"/>
   </a>
     <a href="https://www.paypal.com/paypalme/bagussatoto1">
-    <img src="https://img.shields.io/static/v1?label=Paypal&message=%E2%9D%A4&logo=paypal&color=ff69b4"/> 
+    <img src="https://img.shields.io/static/v1?label=Paypal&message=%E2%9D%A4&logo=paypal&color=ff69b4"/>
   </a>
   <a href="https://github.com/sponsors/bagussatoto">
-    <img src="https://img.shields.io/static/v1?label=Github&message=%E2%9D%A4&logo=Github&color=ff69b4"/> 
+    <img src="https://img.shields.io/static/v1?label=Github&message=%E2%9D%A4&logo=Github&color=ff69b4"/>
   </a>
 </p>
 <!-- End -->
@@ -70,7 +69,6 @@
 <!-- Garis Lurus -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 <!-- End -->
-
 
 <!-- view -->
 <p align="center">
@@ -87,9 +85,9 @@
     </a>
    <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://badges.pufler.dev/Years/bagussatoto?style=flat-square&color=000000" alt="Years Badge"/>
-    </a> 
+    </a>
     <a href="https://github.com/bagussatoto/" target="_blank">
-        <img src="https://badges.pufler.dev/repos/bagussatoto?style=flat-square&color=000000" alt="Repos Badge"/> 
+        <img src="https://badges.pufler.dev/repos/bagussatoto?style=flat-square&color=000000" alt="Repos Badge"/>
     <!-- </a>
     <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://badges.pufler.dev/gists/bagussatoto?style=flat-square&color=000000" alt="Gists Badge"/>
@@ -102,7 +100,7 @@
     </a>
     <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://wakatime.com/badge/github/bagussatoto/bagussatoto.svg?raw=true" alt="Wakatime"/>
-    </a> 
+    </a>
        <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://img.shields.io/badge/isAwesome-true-blue?style=flat-square&color=000000" alt="bagussatoto"/>
     </a>
@@ -111,11 +109,10 @@
 
 <!-- end -->
 
-
 <!-- Coonection -->
 <h2 align="center">
 
-<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> Connect With Me  </h2><br> 
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> Connect With Me  </h2><br>
 
 <p align="center">
 <a href="https://twitter.com/bagussatoto1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sibagus_nokel" height="30" width="40" />
@@ -140,124 +137,112 @@
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 <!-- End -->
 
-
 <!-- 🫱🏽‍🫲🏻 🫱🏽‍🫲🏻 -->
 
 <!-- 📊 -->
-
-
 
 <!-- Languages and Tools -->
 <h2 align="center">
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px"> Languages and Tools  </h2>
 <br>
-<p align="center"> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
-</a> 
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-</a> 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+<p align="center"> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
 </a>
-<a href="https://codeigniter.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a> 
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-</a> 
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-</a> 
-<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-</a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
-</a> 
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a> 
-<a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
-</a> 
-<a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
-</a> 
-<a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
-</a> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-</a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a> 
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-</a> 
-<a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> 
-</a> 
-<a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-</a> 
-<a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-</a> 
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-</a> 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-</a> 
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
-</a> 
- <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+</a>
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+</a>
+<a href="https://codeigniter.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/>
+</a>
+<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+</a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+</a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+</a>
+<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+</a>
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
+</a>
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
+<a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
+</a>
+<a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+</a>
+<a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
+</a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+</a>
+<a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/>
+</a>
+<a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+</a>
+<a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+</a>
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+</a>
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+</a>
+<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+</a>
+ <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
     </a>
-    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
-        <img src="https://worldvectorlogo.com/logos/photoshop-cc-4.svg" alt="photoshop" width="40" height="40"/> 
+    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
+        <img src="https://worldvectorlogo.com/logos/photoshop-cc-4.svg" alt="photoshop" width="40" height="40"/>
     </a>
-     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
-        <img src="https://worldvectorlogo.com/logos/premiere-cc.svg" alt="premiere" width="40" height="40"/> 
+     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
+        <img src="https://worldvectorlogo.com/logos/premiere-cc.svg" alt="premiere" width="40" height="40"/>
     </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-    </a> 
-        <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
-    </a> 
-    <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+    </a>
+        <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+    </a>
+    <a href="https://unity.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-    </a> 
-        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+    </a>
+        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
         <img src="https://worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vsc1" width="40" height="40"/>
-    </a> 
+    </a>
 </p>
 <!-- End -->  
-
-
 
 <!-- Garis -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 <!-- End -->
 
-
 <!-- Scanner -->
 <h2 align="center">
 <img src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" width="50px"> Github Scanner </h2>
 
-
-
 <!-- <h2 align="center"> 🪪 Github Scanner  </h2> -->
-
-
-
-
 
 <br>
 <p align="center" >
-<a herf="https://github.com/bagussatoto" target="_blank" rel="noreferrer"><img src="https://github.com/bagussatoto/bagussatoto/blob/main/%E2%9C%85%20QR/QrGit-Bagus.svg?raw=true" width="" height="200" alt="WebsiteQR"> 
+<a herf="https://github.com/bagussatoto" target="_blank" rel="noreferrer"><img src="https://github.com/bagussatoto/bagussatoto/blob/main/%E2%9C%85%20QR/QrGit-Bagus.svg?raw=true" width="" height="200" alt="WebsiteQR">
 <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen>
 </a>
 </p>
 <!-- End -->
 
 <br>
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
 <!-- Wakatime -->
 
@@ -270,20 +255,17 @@
 <br>
 <p align="center" >
 <a herf="https://github.com/bagussatoto">
-<img src="https://github.com/bagussatoto/bagussatoto/blob/main/metrics.plugin.wakatime.svg?raw=true"> 
+<img src="https://github.com/bagussatoto/bagussatoto/blob/main/metrics.plugin.wakatime.svg?raw=true">
 </a>
 </p>
 <!-- End -->
-
 
 <br>
 <!-- <p align="center" >
 <a herf="https://github.com/bagussatoto">
 <img src="https://wakatime.com/share/@bagussatoto/38c86099-3d18-4b4a-9745-8bcaeb922005.svg?raw=true" width="1000" height="400"/>
 </a> -->
-</p> 
-
-
+</p>
 
 <!-- Garis -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
@@ -300,26 +282,20 @@
   <a href="https://github.com/bagussatoto">
     <img width="60.2%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bagussatoto&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&bg_color=000000"/>
     <img width="38.4%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bagussatoto&layout=compact&langs_count=10&theme=dark&bg_color=000000"/>
-    <img width="54.6%" src="https://github-readme-streak-stats.herokuapp.com/?user=bagussatoto&theme=highcontrast&fire=ffffff&ring=ffffff&border=ffffff&currStreakLabel=ffffff"/> 
+    <img width="54.6%" src="https://github-readme-streak-stats.herokuapp.com/?user=bagussatoto&theme=highcontrast&fire=ffffff&ring=ffffff&border=ffffff&currStreakLabel=ffffff"/>
     <img width="44%" src="https://github-profile-trophy.vercel.app/?username=bagussatoto&theme=onestar&column=4&margin-w=10&margin-h=10"/>
     <!-- <img width="99.4%" src="https://github-readme-activity-graph.cyclic.app/graph?username=bagussatoto&theme=react-dark&bg_color=20232a&hide_border=true" />  -->
-  </a> 
+  </a>
 </p>
-
 
 <!--  <img width="99.4%" src="https://activity-graph.herokuapp.com/graph?username=bagussatoto&theme=react-dark&bg_color=000000&color=FFFFFF" />  -
 
-
-
-
 <!-- Garis -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
-<!-- End -->    
-
+<!-- End -->
 
 <!-- Contribusi -->
 <h2 align="center"><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> Contributions  </h2>
-
 
 <p align="center">
 <p align="center">
@@ -328,18 +304,13 @@
   </a>
 </p>
 
-
 <!-- Garis -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 <!-- End -->
 
 <!-- Snake -->
- <h2 align="center"><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
- Watch My Contribution Graph Get Eaten By the snake <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></h2><br>  
-
-
-
-
+ <!-- <h2 align="center"><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+ Watch My Contribution Graph Get Eaten By the snake <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></h2><br>   -->
 
 <!-- 🐍 Watch My Contribution Graph Get Eaten By the snake 🐍 -->
 
@@ -356,14 +327,9 @@
 
 <!-- ![readmebox](https://github.com/iamtaufik/iamtaufik/assets/80101639/ad894b62-587a-4481-8106-f8fbe5ab7beb) -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/binsarjr/binsarjr/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/binsarjr/binsarjr/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/binsarjr/binsarjr/output/github-contribution-grid-snake.svg" />
-</picture>
+
 
 <!-- [![](https://visitcount.itsvg.in/api?id=bagussatoto&icon=0&color=0)](https://visitcount.itsvg.in) -->
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -374,8 +340,8 @@
 <!-- End -->
 
 <!-- Garis -->
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+<!-- <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> -->
 <!-- End -->
 
 
-
+[def]: ttps://raw.githubusercontent.com/binsarjr/binsarjr/output/github-contribution-grid-snake.sv
