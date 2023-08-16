@@ -329,13 +329,13 @@
 </p>
 
 
-<!-- Garis 
+<!-- Garis -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 <!-- End -->
 
 <!-- Snake -->
- <!-- <h2 align="center"><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
- Watch My Contribution Graph Get Eaten By the snake <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></h2><br>  -->
+ <h2 align="center"><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
+ Watch My Contribution Graph Get Eaten By the snake <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></h2><br>  
 
 
 
@@ -354,13 +354,13 @@
  <!-- <p align="center">
     <img src="./snake/23523.svg?raw=true" alt="snake" width="1000"/> -->
 
+<!-- ![readmebox](https://github.com/iamtaufik/iamtaufik/assets/80101639/ad894b62-587a-4481-8106-f8fbe5ab7beb) -->
 
-
-<!-- <picture>
+ <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bagussatoto/bagussatoto/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bagussatoto/bagussatoto/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/bagussatoto/bagussatoto/output/github-contribution-grid-snake.svg" />
-</picture> -->
+</picture> 
 
 <!-- [![](https://visitcount.itsvg.in/api?id=bagussatoto&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
