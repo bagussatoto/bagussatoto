@@ -344,4 +344,3 @@
 <!-- End -->
 
 
-[def]: ttps://raw.githubusercontent.com/binsarjr/binsarjr/output/github-contribution-grid-snake.sv
