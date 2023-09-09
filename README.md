@@ -327,9 +327,16 @@
 
 <!-- ![readmebox](https://github.com/iamtaufik/iamtaufik/assets/80101639/ad894b62-587a-4481-8106-f8fbe5ab7beb) -->
 
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img width="" src="https://visitcount.itsvg.in/api?id=bagussatoto&icon=0&color=0"/>
+  </a>
+</p>
 
 
-<!-- [![](https://visitcount.itsvg.in/api?id=bagussatoto&icon=0&color=0)](https://visitcount.itsvg.in) -->
+ <!-- [![](https://visitcount.itsvg.in/api?id=bagussatoto&icon=0&color=0)](https://visitcount.itsvg.in)  -->
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -340,7 +347,7 @@
 <!-- End -->
 
 <!-- Garis -->
-<!-- <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> -->
+ <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 <!-- End -->
 
 
