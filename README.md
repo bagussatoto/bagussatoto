@@ -309,8 +309,8 @@
 <!-- End -->
 
 <!-- Snake -->
- <!-- <h2 align="center"><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
- Watch My Contribution Graph Get Eaten By the snake <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></h2><br>   -->
+ <h2 align="center"><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+ Watch My Contribution Graph Get Eaten By the snake <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></h2><br>   
 
 <!-- 🐍 Watch My Contribution Graph Get Eaten By the snake 🐍 -->
 
