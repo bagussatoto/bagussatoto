@@ -309,8 +309,8 @@
 <!-- End -->
 
 <!-- Snake -->
- <h2 align="center"><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
- Watch My Contribution Graph Get Eaten By the snake <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></h2><br>   
+ <!-- <h2 align="center"><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+ Watch My Contribution Graph Get Eaten By the snake <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></h2><br>    -->
 
 <!-- 🐍 Watch My Contribution Graph Get Eaten By the snake 🐍 -->
 
@@ -327,8 +327,9 @@
 
 <!-- ![readmebox](https://github.com/iamtaufik/iamtaufik/assets/80101639/ad894b62-587a-4481-8106-f8fbe5ab7beb) -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://visitcount.itsvg.in">
+
    <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bagussatoto/bagussatoto/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bagussatoto/bagussatoto/output/github-contribution-grid-snake.svg" />
@@ -336,7 +337,7 @@
 </picture>
 
   </a>
-</p>
+</p> -->
 
 
 
@@ -353,7 +354,7 @@
 <!-- End -->
 
 <!-- Garis -->
- <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
+ <!-- <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>  -->
 <!-- End -->
 
 
