@@ -1,0 +1,48 @@
+on:
+    workflow_dispatch:
+    schedule:
+      - cron: '0 * * * *'
+  
+  jobs:
+    metrics:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout code
+          uses: actions/checkout@v2
+  
+        - name: Check Committer
+          id: check
+          run: |
+            commit_email=$(git log -1 --pretty=format:"%ae")
+            commit_username=$(git log -1 --pretty=format:"%an")
+            if [[ "$commit_email" == "cp@imtaqin.id" && "$commit_username" == "fdciabdul" ]]; then
+              echo "::set-output name=proceed::true"
+            else
+              echo "::set-output name=proceed::false"
+            fi
+          shell: bash
+  
+        - name: Update github-metrics.svg
+          if: steps.check.outputs.proceed == 'true'
+          uses: lowlighter/metrics@latest
+          with:
+            token: ${{ secrets.METRICS }}
+            user: fdciabdul
+            template: classic
+            base: activity, community, repositories, metadata
+            config_twemoji: yes
+            repositories: 250
+            plugin_notable: yes
+            plugin_achievements: yes
+            plugin_achievements_secrets: yes
+            plugin_achievements_threshold: A
+            plugin_languages: yes
+            plugin_languages_colors: github
+            plugin_languages_limit: 20
+            plugin_languages_sections: most-used
+            plugin_languages_threshold: 0%
+            plugin_music: yes
+            plugin_music_limit: 5
+            plugin_music_playlist: https://open.spotify.com/playlist/2syDAYRvmq65fGYUChN8rK?theme=0
+            plugin_isocalendar: yes
+            plugin_isocalendar_duration: full-year
