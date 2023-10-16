@@ -98,8 +98,11 @@
     <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://img.shields.io/github/stars/bagussatoto?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub User's stars"/>
     </a>
+    <!-- <a href="https://github.com/bagussatoto/" target="_blank">
+        <img src="https://wakatime.com/badge/github/bagussatoto/bagussatoto.svg?raw=true" alt="Wakatime-1"/>
+    </a> -->
     <a href="https://github.com/bagussatoto/" target="_blank">
-        <img src="https://wakatime.com/badge/github/bagussatoto/bagussatoto.svg?raw=true" alt="Wakatime"/>
+        <img src="https://wakatime.com/badge/user/c4b83837-da7d-4a8d-a309-3ac9b02f03dd.svg?raw=true" alt="Wakatime-2"/>
     </a>
        <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://img.shields.io/badge/isAwesome-true-blue?style=flat-square&color=000000" alt="bagussatoto"/>
@@ -259,6 +262,20 @@
 </a>
 </p>
 <!-- End -->
+
+
+
+<!-- [![wakatime](https://wakatime.com/badge/user/c4b83837-da7d-4a8d-a309-3ac9b02f03dd.svg)](https://wakatime.com/badge/user/c4b83837-da7d-4a8d-a309-3ac9b02f03dd) -->
+<!--START_SECTION:waka-->
+
+```txt
+JavaScript       18 hrs 31 mins  ████████████████████████░   95.69 %
+Markdown         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+TypeScript       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+Ezhil            4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+JSON             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+```
+
 
 <br>
 <!-- <p align="center" >
