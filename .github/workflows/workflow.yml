@@ -9,16 +9,16 @@ on:
    - cron: "0 23 * * *"
 
 jobs:
-  waketime:
+  wakatime:
     runs-on: ubuntu-latest
     steps:
     - name: WakaTime
-      uses: low lighter/metrics@latest
+      uses: lowlighter/metrics@latest
       with:
-        filename: metrics.plugin.waketime.svg
+        filename: metrics.plugin.wakatime.svg
         token: NOT_NEEDED
-        base: "
+        base: ""
         plugin_wakatime: yes
-        plugin_wakatime_user: bagussatoto
+        plugin_wakatime_user: kalwabed
         plugin_wakatime_sections: time, languages, languages-graphs, editors, os
         plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
