@@ -344,7 +344,7 @@ JSON             4 mins          ░░░░░░░░░░░░░░░�
 
 <!-- ![readmebox](https://github.com/iamtaufik/iamtaufik/assets/80101639/ad894b62-587a-4481-8106-f8fbe5ab7beb) -->
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://visitcount.itsvg.in">
 
    <picture>
@@ -354,7 +354,7 @@ JSON             4 mins          ░░░░░░░░░░░░░░░�
 </picture>
 
   </a>
-</p> -->
+</p> 
 
 
 
@@ -371,7 +371,7 @@ JSON             4 mins          ░░░░░░░░░░░░░░░�
 <!-- End -->
 
 <!-- Garis -->
- <!-- <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>  -->
+ <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 <!-- End -->
 
 
