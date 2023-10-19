@@ -268,13 +268,6 @@
 <!-- [![wakatime](https://wakatime.com/badge/user/c4b83837-da7d-4a8d-a309-3ac9b02f03dd.svg)](https://wakatime.com/badge/user/c4b83837-da7d-4a8d-a309-3ac9b02f03dd) -->
 <!--START_SECTION:waka-->
 
-```txt
-JavaScript       18 hrs 31 mins  ████████████████████████░   95.69 %
-Markdown         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-TypeScript       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-Ezhil            4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-JSON             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-```
 
 
 <br>
