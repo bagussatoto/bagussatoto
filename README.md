@@ -115,7 +115,8 @@
 <!-- Coonection -->
 <h2 align="center">
 
-<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> Connect With Me  </h2><br>
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> Connect With Me  </h2>
+<br>
 
 <p align="center">
 <a href="https://twitter.com/bagussatoto1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sibagus_nokel" height="30" width="40" />
@@ -274,8 +275,8 @@
 <!-- <p align="center" >
 <a herf="https://github.com/bagussatoto">
 <img src="https://wakatime.com/share/@bagussatoto/38c86099-3d18-4b4a-9745-8bcaeb922005.svg?raw=true" width="1000" height="400"/>
-</a> -->
-</p>
+</a> 
+</p> -->
 
 <!-- Garis -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
