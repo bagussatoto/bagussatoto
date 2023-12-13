@@ -57,9 +57,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4
       - name: Setup CodeQL
-        uses: github/codeql-action/init@v2
+        uses: github/codeql-action/init@v3
         with:
           languages: javascript
           config-file: ./.github/config/codeql.yml
       - name: Analyze code
-        uses: github/codeql-action/analyze@v2
+        uses: github/codeql-action/analyze@v3
