@@ -88,21 +88,25 @@
     </a>
     <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://badges.pufler.dev/repos/bagussatoto?style=flat-square&color=000000" alt="Repos Badge"/>
-    <!-- </a>
+    <!--
+     </a>
     <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://badges.pufler.dev/gists/bagussatoto?style=flat-square&color=000000" alt="Gists Badge"/>
-    </a> -->
+    </a> 
+    -->
     <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://img.shields.io/github/followers/bagussatoto?style=social" alt="GitHub followers"/>
     </a>
     <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://img.shields.io/github/stars/bagussatoto?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub User's stars"/>
     </a>
-    <!-- <a href="https://github.com/bagussatoto/" target="_blank">
+   <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://wakatime.com/badge/github/bagussatoto/bagussatoto.svg?raw=true" alt="Wakatime-1"/>
-    </a> -->
+    </a>
+    <!--
     <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://wakatime.com/badge/user/c4b83837-da7d-4a8d-a309-3ac9b02f03dd.svg?raw=true" alt="Wakatime-2"/>
+    -->
     </a>
        <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://img.shields.io/badge/isAwesome-true-blue?style=flat-square&color=000000" alt="bagussatoto"/>
@@ -126,8 +130,8 @@
       </a>
       <a href="https://fb.com/bagussatoto1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bagus_satoto1" height="30" width="40" />
       </a>
-      <!-- <a href="https://github.com/bagussatoto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="bbhpowpow" height="30" width="40" />
-      </a> -->
+      <a href="https://github.com/bagussatoto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="bbhpowpow" height="30" width="40" />
+      </a> 
       <a href="https://instagram.com/bagus_satoto1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bagus_satoto1" height="30" width="40" />
       </a>
       <a href="https://github.com/bagussatoto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="bagussatoto" height="30" width="40" />
@@ -298,7 +302,7 @@
   </a>
 </p>
 
-<!--  <img width="99.4%" src="https://activity-graph.herokuapp.com/graph?username=bagussatoto&theme=react-dark&bg_color=000000&color=FFFFFF" />  -
+<!--  <img width="99.4%" src="https://activity-graph.herokuapp.com/graph?username=bagussatoto&theme=react-dark&bg_color=000000&color=FFFFFF" />  -->
 
 <!-- Garis -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
