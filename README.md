@@ -37,7 +37,7 @@
 <h1 align="center" > Hii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm BAGUS BUDI SATOTO</h1>
 <h2 align="center"> 📌 I'm a student at Universitas Amikom Yogyakarta, Indonesia.</h2>
 <h2 align="center">  Major Bachelor of Informatics.</h2>
-<h3 align="center"> 🧑🏽‍💻 Practicum Assistant in Universitas Amikom Yogyakarta.</h3>
+<h3 align="center"> 🧑🏽‍💻 Data Protection Officer - Gama Multi Group </h3>
 <h3 align="center"> 🖥️ Web Developer and Software Engineering 🖥️</h3>
 <h3 align="center"> 🔑 Computer Networks and Security 🔏</h3><br>
 <!-- End -->
