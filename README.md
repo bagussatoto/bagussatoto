@@ -148,7 +148,7 @@
 
 <!-- 📊 -->
 
-<!-- Languages and Tools -->
+<!-- Languages and Tools 
 <h2 align="center">
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px"> Languages and Tools  </h2>
 <br>
