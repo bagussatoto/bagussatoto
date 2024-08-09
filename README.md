@@ -288,23 +288,24 @@
 <!--pencapaian -->
 <!-- <h2 align="center"> 📈 Github Statistics  </h2> -->
 
+<!--
 <h2 align="center">
 <img src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif" width="30px"> Github Statistics  </h2>
 
 <br>
-<p align="center">
+ <p align="center">
   <a href="https://github.com/bagussatoto">
     <img width="60.2%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bagussatoto&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&bg_color=000000"/>
     <img width="38.4%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bagussatoto&layout=compact&langs_count=10&theme=dark&bg_color=000000"/>
     <img width="54.6%" src="https://github-readme-streak-stats.herokuapp.com/?user=bagussatoto&theme=highcontrast&fire=ffffff&ring=ffffff&border=ffffff&currStreakLabel=ffffff"/>
-    <img width="44%" src="https://github-profile-trophy.vercel.app/?username=bagussatoto&theme=onestar&column=4&margin-w=10&margin-h=10"/>
-    <!-- <img width="99.4%" src="https://github-readme-activity-graph.cyclic.app/graph?username=bagussatoto&theme=react-dark&bg_color=20232a&hide_border=true" />  -->
+    <img width="44%" src="https://github-profile-trophy.vercel.app/?username=bagussatoto&theme=onestar&column=4&margin-w=10&margin-h=10"/> 
+    <!-- <img width="99.4%" src="https://github-readme-activity-graph.cyclic.app/graph?username=bagussatoto&theme=react-dark&bg_color=20232a&hide_border=true" />  
   </a>
-</p>
+</p> -->
 
 <!--  <img width="99.4%" src="https://activity-graph.herokuapp.com/graph?username=bagussatoto&theme=react-dark&bg_color=000000&color=FFFFFF" />  -->
 
-<!-- Garis -->
+<!-- Garis 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 <!-- End -->
 
