@@ -86,12 +86,10 @@
     </a>
     <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://badges.pufler.dev/repos/bagussatoto?style=flat-square&color=000000" alt="Repos Badge"/>
-    <!--
      </a>
     <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://badges.pufler.dev/gists/bagussatoto?style=flat-square&color=000000" alt="Gists Badge"/>
     </a> 
-    -->
     <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://img.shields.io/github/followers/bagussatoto?style=social" alt="GitHub followers"/>
     </a>
@@ -101,10 +99,8 @@
    <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://wakatime.com/badge/github/bagussatoto/bagussatoto.svg?raw=true" alt="Wakatime-1"/>
     </a>
-    <!--
     <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://wakatime.com/badge/user/c4b83837-da7d-4a8d-a309-3ac9b02f03dd.svg?raw=true" alt="Wakatime-2"/>
-    -->
     </a>
        <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://img.shields.io/badge/isAwesome-true-blue?style=flat-square&color=000000" alt="bagussatoto"/>
