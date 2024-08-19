@@ -99,9 +99,9 @@
    <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://wakatime.com/badge/github/bagussatoto/bagussatoto.svg?raw=true" alt="Wakatime-1"/>
     </a>
-    <a href="https://github.com/bagussatoto/" target="_blank">
+<!--     <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://wakatime.com/badge/user/c4b83837-da7d-4a8d-a309-3ac9b02f03dd.svg?raw=true" alt="Wakatime-2"/>
-    </a>
+    </a> -->
        <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://img.shields.io/badge/isAwesome-true-blue?style=flat-square&color=000000" alt="bagussatoto"/>
     </a>
@@ -116,21 +116,29 @@
 <br>
 
 <p align="center">
-      <a href="https://twitter.com/bagussatoto1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sibagus_nokel" height="30" width="40" />
+      <a href="https://twitter.com/bagussatoto1" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sibagus_nokel" height="30" width="40" />
       </a>
-      <a href="https://bio-bagus.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="bagussatoto" height="30" width="40" />
+      <a href="https://bio-bagus.netlify.app/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="bagussatoto" height="30" width="40" />
       </a>
-      <a href="https://linkedin.com/in/bagussatoto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bagussatoto1" height="30" width="40" />
+      <a href="https://linkedin.com/in/bagussatoto" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bagussatoto1" height="30" width="40" />
       </a>
-      <a href="https://fb.com/bagussatoto1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bagus_satoto1" height="30" width="40" />
+      <a href="https://fb.com/bagussatoto1" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bagus_satoto1" height="30" width="40" />
       </a>
-      <a href="https://dribbble.com/bagussatoto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="bbhpowpow" height="30" width="40" />
+      <a href="https://dribbble.com/bagussatoto" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="bbhpowpow" height="30" width="40" />
       </a> 
-      <a href="https://instagram.com/bagus_satoto1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bagus_satoto1" height="30" width="40" />
+      <a href="https://instagram.com/bagus_satoto1" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bagus_satoto1" height="30" width="40" />
       </a>
-      <a href="https://github.com/bagussatoto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="bagussatoto" height="30" width="40" />
+      <a href="https://github.com/bagussatoto" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="bagussatoto" height="30" width="40" />
       </a>
-      <a href="https://wa.me/08988325547" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="bagussatoto" height="30" width="40" />
+      <a href="https://wa.me/08988325547" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="bagussatoto" height="30" width="40" />
 </a>
 </p>
 
@@ -279,10 +287,10 @@
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 <!-- End -->
 
-<!--pencapaian -->
-<!-- <h2 align="center"> 📈 Github Statistics  </h2> -->
+<!--pencapaian 
+ <h2 align="center"> 📈 Github Statistics  </h2> -->
 
-<!--
+
 <h2 align="center">
 <img src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif" width="30px"> Github Statistics  </h2>
 
@@ -291,15 +299,15 @@
   <a href="https://github.com/bagussatoto">
     <img width="60.2%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bagussatoto&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&bg_color=000000"/>
     <img width="38.4%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bagussatoto&layout=compact&langs_count=10&theme=dark&bg_color=000000"/>
-    <img width="54.6%" src="https://github-readme-streak-stats.herokuapp.com/?user=bagussatoto&theme=highcontrast&fire=ffffff&ring=ffffff&border=ffffff&currStreakLabel=ffffff"/>
+   <!--  <img width="54.6%" src="https://github-readme-streak-stats.herokuapp.com/?user=bagussatoto&theme=highcontrast&fire=ffffff&ring=ffffff&border=ffffff&currStreakLabel=ffffff"/>
     <img width="44%" src="https://github-profile-trophy.vercel.app/?username=bagussatoto&theme=onestar&column=4&margin-w=10&margin-h=10"/> 
-    <!-- <img width="99.4%" src="https://github-readme-activity-graph.cyclic.app/graph?username=bagussatoto&theme=react-dark&bg_color=20232a&hide_border=true" />  
+    <img width="99.4%" src="https://github-readme-activity-graph.cyclic.app/graph?username=bagussatoto&theme=react-dark&bg_color=20232a&hide_border=true" />   -->
   </a>
-</p> -->
+</p> 
 
 <!--  <img width="99.4%" src="https://activity-graph.herokuapp.com/graph?username=bagussatoto&theme=react-dark&bg_color=000000&color=FFFFFF" />  -->
 
-<!-- Garis 
+<!-- Garis -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 <!-- End -->
 
