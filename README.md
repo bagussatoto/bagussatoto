@@ -75,11 +75,9 @@
     <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://komarev.com/ghpvc/?username=bagussatoto&label=Profile%20views&color=000000&style=flat-square" alt="view profile"/>
     </a>
-  <!-- 
     <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://visitcount.itsvg.in/api?id=bagussatoto&icon=0&color=0" alt="Profile view"/>
     </a>
-  -->
     <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://img.shields.io/badge/Age-21 th-black" alt="umur"/>
     </a>
@@ -130,7 +128,7 @@
       </a>
       <a href="https://fb.com/bagussatoto1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bagus_satoto1" height="30" width="40" />
       </a>
-      <a href="https://github.com/bagussatoto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="bbhpowpow" height="30" width="40" />
+      <a href="https://dribbble.com/bagussatoto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="bbhpowpow" height="30" width="40" />
       </a> 
       <a href="https://instagram.com/bagus_satoto1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bagus_satoto1" height="30" width="40" />
       </a>
