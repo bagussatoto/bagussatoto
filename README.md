@@ -90,6 +90,7 @@
     <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://badges.pufler.dev/gists/bagussatoto?style=flat-square&color=000000" alt="Gists Badge"/>
     </a> 
+    <br>
     <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://img.shields.io/github/followers/bagussatoto?style=social" alt="GitHub followers"/>
     </a>
