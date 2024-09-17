@@ -118,7 +118,10 @@
 
 <p align="center">
       <a href="https://twitter.com/bagussatoto1" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sibagus_nokel" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bagussatotol" height="30" width="40" />
+      </a>
+       <a href="https://www.youtube.com/@bagusbudisatoto1280" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bagussatoto" height="30" width="40" />
       </a>
       <a href="https://bio-bagus.netlify.app/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="bagussatoto" height="30" width="40" />
