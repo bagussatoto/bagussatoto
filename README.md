@@ -38,7 +38,7 @@
 <!-- <h2 align="center"> 📌 I'm a student at Universitas Amikom Yogyakarta, Indonesia.</h2> -->
 <h2 align="center">  Major Bachelor of Informatics.</h2>
 <!-- <h3 align="center"> 🧑🏽‍💻 Data Protection Officer - Gama Multi Group </h3> -->
-<h3 align="center"> 🧑🏽‍💻 Mayanet - Operator </h3>
+<h3 align="center"> 🧑🏽‍💻 Mayanet PT.Maya Graha Kencana - Operator Developer </h3>
 <h3 align="center"> 🖥️ Web Developer and Software Engineering 🖥️</h3>
 <h3 align="center"> 🔑 Computer Networks and Security 🔏</h3><br>
 <!-- End -->
