@@ -253,6 +253,28 @@
 </p>
 <!-- End -->
 
+<!-- Achievements -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="trophy"> Achievements
+</h2>
+<br>
+
+<p align="center">
+  <a href="https://github.com/bagussatoto?tab=achievements">
+    <img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/starstruck-default.png" width="95" alt="Starstruck" title="Starstruck: Created a repository with stars" />
+    <img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/quickdraw-default.png" width="95" alt="Quickdraw" title="Quickdraw: Closed an issue or PR within 5 minutes" />
+    <img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/pull-shark-default.png" width="95" alt="Pull Shark" title="Pull Shark: Opened pull requests that were merged" />
+    <img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/yolo-default.png" width="95" alt="YOLO" title="YOLO: Merged PR without code review" />
+    <img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/pair-extraordinaire-default.png" width="95" alt="Pair Extraordinaire" title="Pair Extraordinaire: Co-authored commits on merged PR" />
+  </a>
+</p>
+
+<!-- Garis -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="1000"/>
+</p>
+<!-- End -->
+
 <!-- Snake Contribution Graph -->
 <p align="center">
   <a href="https://github.com/bagussatoto">
