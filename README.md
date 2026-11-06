@@ -242,8 +242,8 @@
 
 <p align="center">
   <a href="https://github.com/bagussatoto">
-    <img width="60.2%" src="https://github-readme-stats.vercel.app/api?username=bagussatoto&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&bg_color=000000" alt="GitHub Stats"/>
-    <img width="38.4%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagussatoto&layout=compact&langs_count=10&theme=dark&bg_color=000000" alt="Top Langs"/>
+    <img width="60.2%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bagussatoto&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&bg_color=000000" alt="GitHub Stats"/>
+    <img width="38.4%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bagussatoto&layout=compact&langs_count=10&theme=dark&bg_color=000000" alt="Top Langs"/>
   </a>
 </p> 
 
