@@ -217,14 +217,14 @@
 
 <!-- Referensi Jurnal JISBT Publikasi -->
 <h2 align="center">
-  📚 Referensi Jurnal JISBT Publikasi
+  📚 JISBT Journal Publication Reference
 </h2>
 <br>
 
 <p align="center">
   <b>Quality Testing of Web-Based Tuition Payment Applications Using ISO/IEC 29119</b><br>
-  <i>Penelitian mahasiswa Universitas Pamulang yang mereferensikan proyek open-source:</i><br>
-  <b>[9] Bagussatoto. (2025). Aplikasi Pembayaran SPP Berbasis Website.</b><br><br>
+  <i>Pamulang University student research citing open-source project:</i><br>
+  <b>[9] Bagussatoto. (2025). Web-Based Tuition Payment Application (Aplikasi Pembayaran SPP Berbasis Website).</b><br><br>
   <a href="https://journal.jci.co.id/jisbt/article/view/264#:~:text=%5B9%5D%20Bagussatoto.%20(2025).%20Aplikasi%20Pembayaran%20SPP%20Berbasis%20Website.%20GitHub%20Repository." target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/JISBT-Read%20Paper-107C41?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Jurnal JISBT"/>
   </a>
