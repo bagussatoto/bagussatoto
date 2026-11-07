@@ -215,6 +215,28 @@
 </p>
 <!-- End -->
 
+<!-- Referensi Jurnal JISBT Publikasi -->
+<h2 align="center">
+  📚 Referensi Jurnal JISBT Publikasi
+</h2>
+<br>
+
+<p align="center">
+  <b>Quality Testing of Web-Based Tuition Payment Applications Using ISO/IEC 29119</b><br>
+  <i>Mahasiswa Universitas Pamulang</i><br><br>
+  <a href="https://journal.jci.co.id/jisbt/article/view/264" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/JISBT-Read%20Article-107C41?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Jurnal JISBT"/>
+  </a>
+</p>
+<br>
+<!-- End -->
+
+<!-- Garis -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="1000"/>
+</p>
+<!-- End -->
+
 <!-- Wakatime -->
 <h2 align="center">
   <img src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif" width="50px" alt="spunchbob"> Waka Time
